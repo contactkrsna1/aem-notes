@@ -1,4 +1,6 @@
+-----------
 Classic UI:
+-----------
 
 Classic UI Home Page - http://localhost:4502/libs/cq/core/content/welcome.html
 Siteadmin Console - http://localhost:4502/siteadmin
@@ -22,7 +24,9 @@ Translator Settings - http://localhost:4502/libs/cq/i18n/translator.html
 Bulk Editor - http://localhost:4502/etc/importers/bulkeditor.html
 Feed Import Management - http://localhost:4502/miscadmin#/etc/importers
 
+---------
 Touch UI:
+---------
 
 Touch UI Home Page - http://localhost:4502/projects.html
 Siteadmin Console - http://localhost:4502/sites.html/content
