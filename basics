@@ -1,0 +1,2 @@
+Components are re-usable modules that implement specific application logic to render the content of your web site. You can think of a component as a collection of scripts
+(for example, JSPs, Java servlets, and so on) that completely realize a specific function. 
