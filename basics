@@ -1,2 +1,1 @@
-Components are re-usable modules that implement specific application logic to render the content of your web site. You can think of a component as a collection of scripts
-(for example, JSPs, Java servlets, and so on) that completely realize a specific function. 
+mvn -B archetype:generate -DarchetypeGroupId=com.adobe.granite.archetypes -DarchetypeArtifactId=aem-project-archetype -DarchetypeVersion=23 -DaemVersion=6.5.0 -DappTitle="AEM GEEKS" -DappId="aemgeeks" -DgroupId="com.aem.geeks" -DfrontendModule=none -DincludeExamples=n -DincludeDispatcherConfig=n -DlanguageCountry="en_us" -DsingleCountry=y -DincludeExamples=y
